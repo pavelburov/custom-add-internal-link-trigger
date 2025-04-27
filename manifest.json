@@ -1,0 +1,11 @@
+{
+	"id": "custom-add-internal-link-trigger",
+	"name": "Custom Add Internal Link Trigger",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Allows to configure character sequence to trigger 'Add Internal Link' command.",
+	"author": "Pavel Burov <burovpavel@gmail.com>",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": true
+}
